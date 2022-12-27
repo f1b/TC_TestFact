@@ -5,7 +5,7 @@ namespace Factorial
 {
     class Program
     {
-        static int Main(string[] args)
+        static int Min(string[] args)
         {
             if (args.Length < 1)
             {
